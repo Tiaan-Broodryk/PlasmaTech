@@ -1,9 +1,6 @@
+# fly.toml file generated for plasmacutting on 2023-04-17T11:01:25+02:00
 
- 
-
-# fly.toml file generated for tiaanwebsite on 2023-02-13T15:28:40+02:00
-
-app = "PlasmaTech"
+app = "plasmacutting"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
